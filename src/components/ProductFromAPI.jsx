@@ -96,7 +96,7 @@ const ProductFromAPI = (props) => {
       <ProductInfoGeneral>
         <ProductTitle>{item.title}</ProductTitle>
         <MainFeatures>{item["description"]}</MainFeatures>
-        <ProductPrice>{item.price} PKR</ProductPrice>
+        <ProductPrice>{item.price} PHP</ProductPrice>
       </ProductInfoGeneral>
     </Container>
   );

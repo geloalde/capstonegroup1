@@ -142,11 +142,11 @@ function Footer() {
         <Left>
           <Logo>
             <Link to="/React-Project-e-commerce-app-estore.com/" className="CustomRouterLink">
-              2GE Tech
+              GGE Tech Store
             </Link>
           </Logo>
           <Desc>
-            2GE Tech is your go to store for all your tech needs. A wide range of gadgets, computer hardware and mobile phones. Guaranteed new and with 1 year warranty.
+            GGE Tech Store is your go to store for all your tech needs. A wide range of gadgets, computer hardware and mobile phones. Guaranteed new and with 1 year warranty.
           </Desc>
           <SocialContainer>
             <SocialIcon color="3B5999">

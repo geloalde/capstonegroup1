@@ -103,7 +103,7 @@ const Slider = () => {
   const handleClick = (direction) => {
     if (direction === "left") {
       //   console.log("Left");
-      setSlideIndex(slideIndex > 0 ? slideIndex - 1 : 2);
+      setSlideIndex(slideIndex > 0 ? slideIndex - 1 : 4);
     } else {
       //   console.log("Right");
       setSlideIndex(slideIndex < 4 ? slideIndex + 1 : 0);

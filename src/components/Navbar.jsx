@@ -102,7 +102,7 @@ const Navbar = ({ ItemsInCart }) => {
         <Wrapper>
           <Left>
             <Link to="/React-Project-e-commerce-app-estore.com/" className="CustomRouterLink">
-              <Logo>2GE Tech</Logo>
+              <Logo>GGE Tech Store</Logo>
               
             </Link>
           </Left>

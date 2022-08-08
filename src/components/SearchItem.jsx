@@ -84,7 +84,7 @@ class SearchItem extends Component {
             <Desc>{item.desc}</Desc>
           </ProdctDetails>
           <ProdctPrice>
-            <Price>{item.price} PKR</Price>
+            <Price>{item.price} DOLLARS</Price>
           </ProdctPrice>
         </CartProduct>
       </Link>

@@ -240,6 +240,14 @@ const ShippingPayment = ({ totalCartItems, totalPriceCartItems }) => {
           <Option disabled selected>
             City
           </Option>
+          <Option>Abra</Option>
+          <Option>Baguio</Option>
+          <Option>Islamabad</Option>
+          <Option>Multan</Option>
+          <Option>Karachi</Option>
+          <Option>Lahore</Option>
+          <Option>Islamabad</Option>
+          <Option>Multan</Option>
           <Option>Karachi</Option>
           <Option>Lahore</Option>
           <Option>Islamabad</Option>

@@ -4,7 +4,7 @@ export const sliderItems = [
         // Comment the image below of laptop during development its a heavy image 
         
         img: "https://www.pngall.com/wp-content/uploads/9/Gadget-PNG-Pic.png",
-        title: "2GE Tech Store",
+        title: "GGE Tech Store",
         desc: "Wide range of choices from mobile phones, tablets, computer hardware and consoles! Satisfaction guaranteed! Safe delivery to your doorstep! ",
         bg: "e9f6ff",
         link: "/React-Project-e-commerce-app-estore.com/productview/0",
@@ -38,6 +38,16 @@ export const sliderItems = [
         size: "80%"
     },
 
+    {
+        id: 5,
+        img: "https://pngroyale.com/wp-content/uploads/2022/03/Graphic-Web-Design-Transparent-Image.png",
+        title: "Sample Slide Number 5",
+        desc: "Sample Sub Header 5!",
+        bg: "e9f6ff",
+        link: "/React-Project-e-commerce-app-estore.com/productview/20",
+        size: "80%"
+    },
+
 ];
 
 export const categories = [
@@ -58,6 +68,12 @@ export const categories = [
         img: "https://i.pcmag.com/imagery/articles/06X5FmHnKHTTmFzyn5jMunR-7..v1651759223.jpg",
         title: "HEADPHONES",
         link: "/React-Project-e-commerce-app-estore.com/productlist/headphones",
+    },
+    {
+        id: 4,
+        img: "https://wallpapers.com/images/high/playstation-ps5-console-nsndc8ewygduy1nh.jpg",
+        title: "CONSOLE",
+        link: "/React-Project-e-commerce-app-estore.com/productlist/console",
     },
 ];
 
@@ -100,7 +116,7 @@ export const allProducts = [
     {
         id: 1,
         title: "HP 15s FQ5886TU",
-        desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Necessitatibus, velit neque. Consectetur illum dicta officiis ad at tempore sapiente voluptas, ut vero dignissimos cum necessitatibus eligendi maxime quaerat obcaecati ex.",
+        desc: "Hewelett",
         img: "https://laptopmart.pk/wp-content/uploads/2022/08/HP-Laptop-15s-fq2555TU.jpg",
         // Price and Price Quantity must be same
         price: 137999,
@@ -112,8 +128,8 @@ export const allProducts = [
         specs: {
             RAM: "16 GB",
             ROM: "512 GB",
-            "Display": " - ",
-            "Battery and Power": " - ",
+            "Display": " 17 ",
+            "Battery and Power": " unli ",
             "Memory": " - ",
             "Storage": " - ",
             "Charg­ing and Expan­sion": " - ",
@@ -884,6 +900,38 @@ export const allProducts = [
             color3: "3346FF",
         },
     },
+
+
+    {
+        id: 25,
+        title: "25th product",
+        desc: "added on our class og aug 8 , 2022",
+        img: "https://d1iv6qgcmtzm6l.cloudfront.net/products/lg_w7IFRo01jvLPNAi3sdhaHDIsquq2wa0G3l9FxDk9.jpg",
+        // Price and Price Quantity must be same
+        price: 2949,
+        priceQuantity: 2949,
+        quantity: 1,
+        category: "console",
+        popular: "yes",
+        "Main Features": "8 hours battery",
+        specs: {
+            RAM: "Bluetooth",
+            ROM: "5.0",
+            "Bluetooth version": " - ",
+            "Active noise cancellation": " - ",
+            "Ambient mode": " - ",
+            "Multipoint": " - ",
+            "Battery life": " - ",
+            "Bluetooth codecs": " - ",
+        },
+        colors: {
+            color1: "58FF33",
+            color2: "FF33F3",
+            color3: "3346FF",
+        },
+    },
+
+
 ];
 
 // Items added to cart 
