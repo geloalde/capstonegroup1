@@ -72,8 +72,8 @@ export const categories = [
     {
         id: 4,
         img: "https://wallpapers.com/images/high/playstation-ps5-console-nsndc8ewygduy1nh.jpg",
-        title: "CONSOLE",
-        link: "/React-Project-e-commerce-app-estore.com/productlist/console",
+        title: "CONSOLES",
+        link: "/React-Project-e-commerce-app-estore.com/productlist/consoles",
     },
 ];
 
@@ -904,34 +904,145 @@ export const allProducts = [
 
     {
         id: 25,
-        title: "25th product",
-        desc: "added on our class og aug 8 , 2022",
-        img: "https://d1iv6qgcmtzm6l.cloudfront.net/products/lg_w7IFRo01jvLPNAi3sdhaHDIsquq2wa0G3l9FxDk9.jpg",
+        title: "Nintendo Switch V2",
+        desc: "The Nintendo Switch is both a home console and a handheld device - a hybrid of sorts. On the go, it'll be in the form of a tablet that also has a docking station which then plugs into your TV.",
+        img: "https://s.pacn.ws/1500/xe/nintendo-switch-neon-blue-neon-red-601273.6.jpg",
         // Price and Price Quantity must be same
-        price: 2949,
-        priceQuantity: 2949,
+        price: 14500,
+        priceQuantity: 14500,
         quantity: 1,
-        category: "console",
+        category: "consoles",
         popular: "yes",
-        "Main Features": "8 hours battery",
+        "Main Features": "4-9 hours battery",
         specs: {
-            RAM: "Bluetooth",
-            ROM: "5.0",
-            "Bluetooth version": " - ",
-            "Active noise cancellation": " - ",
-            "Ambient mode": " - ",
-            "Multipoint": " - ",
-            "Battery life": " - ",
-            "Bluetooth codecs": " - ",
+            RAM: "TV mode",
+            ROM: "Handheld mode",
+            "Version": "Japan",
+            "Colors": "Neon Blue, Neon Red",
+            "Official release date": "Aug 30, 2019",
+            "Product measurement": "35cm x 20cm x 10cm",
+           
         },
         colors: {
             color1: "58FF33",
             color2: "FF33F3",
             color3: "3346FF",
         },
+
+        
     },
+    {
+        id: 26,
+        title: "Nintendo Animal Crossing",
+        desc: "added on our class og aug 8 , 2022",
+        img: "https://s1.thcdn.com/productimg/960/960/12458084-6214741408005972.jpg",
+        // Price and Price Quantity must be same
+        price: 16000,
+        priceQuantity: 16000,
+        quantity: 1,
+        category: "consoles",
+        popular: "yes",
+        "Main Features": "4-9 hours battery, TV mode, handheld mode",
+        specs: {
+            RAM: "",
+            ROM: "",
+            "Version": "Japan",
+            "Colors": "Neon Blue, Neon Red",
+            "Official release date": "Aug 30, 2019",
+            "Product measurement": "35cm x 20cm x 10cm",
+        },
+        colors: {
+            color1: "58FF33",
+            color2: "FF33F3",
+            color3: "3346FF",
+        },
 
+        
+    },
+    {
+        id: 27,
+        title: "Nintendo Switch Lite",
+        desc: "Nintendo Switch Lite is a compact, lightweight Nintendo Switch system dedicated to handheld play. With a built-in +Control Pad and a sleek, unibody design, it’s great for on-the-go gaming. Nintendo Switch Lite is compatible with the robust library of Nintendo Switch games that support handheld mode. If you’re looking for a gaming system all your own, Nintendo Switch Lite is ready to hit the road whenever you are.",
+        img: "https://s.pacn.ws/1500/xc/nintendo-switch-lite-turquoise-600347.4.jpg?v=qm8wxn&width=800",
+        // Price and Price Quantity must be same
+        price: 7500,
+        priceQuantity: 7500,
+        quantity: 1,
+        category: "consoles",
+        popular: "yes",
+        "Main Features": "Handheld play, Light, Compact",
+        specs: {
+            RAM: "",
+            ROM: "",
+            "Version": "Japan",
+            "Colors": "Turquoise",
+            "Official release date": "Aug 30, 2019",
+            "Product measurement": "35cm x 20cm x 10cm",
+        },
+        colors: {
+            color1: "58FF33",
+            color2: "FF33F3",
+            color3: "3346FF",
+        },
 
+        
+    },
+    {
+        id: 28,
+        title: "XBOX Series X",
+        desc: "Xbox Series X will be the fastest, most powerful console ever and set a new bar for performance, speed and compatibility, allowing to bring the gaming legacy, thousands of games from three generations and more forward with you. Its industrial design enables us to deliver four times the processing power of Xbox One X in the quietest and efficient way, something that is critically important in delivering truly immersive gameplay. The design supports both vertical and horizontal orientation.",
+        img: "https://s.pacn.ws/1500/y8/xbox-series-x-616469.4.webp?v=qm62qq&width=760",
+        // Price and Price Quantity must be same
+        price: 40655,
+        priceQuantity: 40655,
+        quantity: 1,
+        category: "consoles",
+        popular: "yes",
+        "Main Features": "Hardware Accelerated DirectX Raytracing",
+        specs: {
+            RAM: "",
+            ROM: "",
+            "Version": "Japan",
+            "Colors": "Black",
+            "Official release date": "Nov 10, 2020",
+            "Product measurement": "38cm x 30cm x 22cm",
+        },
+        colors: {
+            color1: "58FF33",
+            color2: "FF33F3",
+            color3: "3346FF",
+        },
+
+        
+    },
+    {
+        id: 29,
+        title: "Playstation 5",
+        desc: "Experience lightning-fast loading with an ultra-high-speed SSD, deeper immersion with support for haptic feedback, adaptive triggers, and 3D Audio, and an all-new generation of incredible PlayStation games.",
+        img: "https://s.pacn.ws/1500/z4/-632313.1.webp?v=qm8444&width=760",
+        // Price and Price Quantity must be same
+        price: 52270,
+        priceQuantity: 40655,
+        quantity: 1,
+        category: "consoles",
+        popular: "yes",
+        "Main Features": "Haptic technology",
+        specs: {
+            RAM: "",
+            ROM: "",
+            "Version": "Asia",
+            "Colors": "White",
+            "Official release date": "Nov 19, 2020",
+            "Product measurement": "47cm x 42cm x 18cm",
+        },
+        colors: {
+            color1: "58FF33",
+            color2: "FF33F3",
+            color3: "3346FF",
+        },
+
+        
+    },
 ];
 
 // Items added to cart 
