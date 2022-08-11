@@ -189,7 +189,7 @@ export const allProducts = [
         priceQuantity: 60759,
         quantity: 1,
         category: "laptops",
-        popular: "no",
+        popular: "yes",
         "Main Features": " Ryzen 7 ",
         specs: {
             RAM: "32 GB",
@@ -387,7 +387,7 @@ export const allProducts = [
         priceQuantity: 58999,
         quantity: 1,
         category: "laptops",
-        popular: "no",
+        popular: "yes",
         "Main Features": "11th Generation",
         specs: {
             RAM: "8 GB",
@@ -412,7 +412,7 @@ export const allProducts = [
     },
     {
         id: 10,
-        title: "IPHONE 13 PRO",
+        title: "iPhone 13 Pro",
         desc: "Apple iPhone 13 Pro smartphone. Announced Sep 2021. Features 6.1″ display, Apple A15 Bionic chipset, 3095 mAh battery, 1024 GB storage, 6 GB RAM.",
         img: "http://cdn.shopify.com/s/files/1/0326/0291/4952/products/iphone13promax_silver_img2_1024x.jpg?v=1639460503",
         // Price and Price Quantity must be same
@@ -525,7 +525,7 @@ export const allProducts = [
         priceQuantity: 11999,
         quantity: 1,
         category: "phones",
-        popular: "no",
+        popular: "yes",
         "Main Features": "Dual Sim",
         specs: {
             RAM: "4 GB",
@@ -700,7 +700,7 @@ export const allProducts = [
         priceQuantity: 38999,
         quantity: 1,
         category: "phones",
-        popular: "no",
+        popular: "yes",
         "Main Features": "5G",
         specs: {
             RAM: "8 GB",
@@ -941,7 +941,7 @@ export const allProducts = [
         priceQuantity: 16000,
         quantity: 1,
         category: "consoles",
-        popular: "yes",
+        popular: "no",
         "Main Features": "4-9 hours battery, TV mode, handheld mode",
         specs: {
             RAM: "",
@@ -969,7 +969,7 @@ export const allProducts = [
         priceQuantity: 7500,
         quantity: 1,
         category: "consoles",
-        popular: "yes",
+        popular: "no",
         "Main Features": "Handheld play, Light, Compact",
         specs: {
             RAM: "",

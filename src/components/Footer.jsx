@@ -188,9 +188,9 @@ function Footer() {
               </Link>
             </ListItem>
             <ListItem>
-              <Link to="/React-Project-e-commerce-app-estore.com/dataapi" className="CustomRouterLink">
+              {/* <Link to="/React-Project-e-commerce-app-estore.com/dataapi" className="CustomRouterLink">
                 Data API
-              </Link>
+              </Link> */}
             </ListItem>
             <ListItem>
               <Link to="/React-Project-e-commerce-app-estore.com/productlist/phones" className="CustomRouterLink">
@@ -198,9 +198,9 @@ function Footer() {
               </Link>
             </ListItem>
             <ListItem>
-              <Link to="/React-Project-e-commerce-app-estore.com/addproducttoapi" className="CustomRouterLink">
+              {/* <Link to="/React-Project-e-commerce-app-estore.com/addproducttoapi" className="CustomRouterLink">
                 Add Product API
-              </Link>
+              </Link> */}
             </ListItem>
             <ListItem>
               <Link to="/React-Project-e-commerce-app-estore.com/productlist/headphones" className="CustomRouterLink">
@@ -208,9 +208,9 @@ function Footer() {
               </Link>
             </ListItem>
             <ListItem>
-              <Link to="/React-Project-e-commerce-app-estore.com/restfulapi" className="CustomRouterLink">
+              {/* <Link to="/React-Project-e-commerce-app-estore.com/restfulapi" className="CustomRouterLink">
                 Restful API Data
-              </Link>
+              </Link> */}
             </ListItem>
           </List>
         </Center>
