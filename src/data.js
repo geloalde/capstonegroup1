@@ -34,17 +34,17 @@ export const sliderItems = [
         title: "Amplify your Tech Swag with us!",
         desc: "A wide range of choices! Satisfaction guaranteed! Delivery to your doorstep!",
         bg: "b7bfe4",
-        link: "/React-Project-e-commerce-app-estore.com/productview/20",
+        link: "/React-Project-e-commerce-app-estore.com/productlist/headphones",
         size: "80%"
     },
 
     {
         id: 5,
         img: "https://pngroyale.com/wp-content/uploads/2022/03/Graphic-Web-Design-Transparent-Image.png",
-        title: "Sample Slide Number 5",
-        desc: "Sample Sub Header 5!",
+        title: "From Windows to Mac",
+        desc: "Diverse product range",
         bg: "e9f6ff",
-        link: "/React-Project-e-commerce-app-estore.com/productview/20",
+        link: "/React-Project-e-commerce-app-estore.com/productlist/laptops",
         size: "80%"
     },
 
