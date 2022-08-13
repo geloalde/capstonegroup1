@@ -82,7 +82,7 @@ export const allProducts = [
     // Product Id starts from zero same as index to object
     {
         id: 0,
-        title: "MACBOOK PRO 13-inch",
+        title: " Apple MacBook Pro 13-inch",
         desc: "M2 is the next generation of Apple silicon. Its 8-core CPU lets you zip through everyday tasks like creating documents and presentations, or take on more intensive workflows like developing in Xcode or mixing tracks in Logic Pro.",
         img: "https://www.applestore.pk/wp-content/uploads/2021/01/mbp-spacegray-select-202011.jpg",
         // Price and Price Quantity must be same
@@ -412,7 +412,7 @@ export const allProducts = [
     },
     {
         id: 10,
-        title: "iPhone 13 Pro",
+        title: "Apple iPhone 13 Pro",
         desc: "Apple iPhone 13 Pro smartphone. Announced Sep 2021. Features 6.1″ display, Apple A15 Bionic chipset, 3095 mAh battery, 1024 GB storage, 6 GB RAM.",
         img: "http://cdn.shopify.com/s/files/1/0326/0291/4952/products/iphone13promax_silver_img2_1024x.jpg?v=1639460503",
         // Price and Price Quantity must be same
