@@ -7,9 +7,13 @@ const Container = styled.div`
   padding: 20px;
   justify-content: space-between;
 `;
+
+
+
 const Categories = () => {
   return (
     <Container>
+      
       {categories.map((items) => (
         <CategoryItem item={items} key={items.id} />
       ))}

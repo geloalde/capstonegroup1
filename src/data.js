@@ -14,7 +14,7 @@ export const sliderItems = [
         id: 2,
         img: "http://cdn.shopify.com/s/files/1/0593/9727/5805/products/iphone-13-pro-max-graphite-select_cb9edf31-3fd4-4f27-8ed6-978343b9313d_1200x1200.png?v=1643889724",
         title: "IPHONE 13 Pro",
-        desc: "Apple iPhone 13 Pro smartphone. Announced Sep 2021. Apple A15 Bionic chipset, 3095 mAh battery, 1024 GB storage, 6 GB RAM, ..",
+        desc: "Apple iPhone 13 Pro smartphone. Announced Sep 2021. Apple A15 Bionic chipset, 3095 mAh battery, 1024 GB storage, 6 GB RAM",
         bg: "f9f6ff",
         link: "/React-Project-e-commerce-app-estore.com/productview/10",
         size: "80%"
@@ -31,8 +31,8 @@ export const sliderItems = [
     {
         id: 4,
         img: "https://www.pngall.com/wp-content/uploads/9/Electronics-Gadget-PNG.png",
-        title: "Amplify your Tech Swag with us!",
-        desc: "A wide range of choices! Satisfaction guaranteed! Delivery to your doorstep!",
+        title: "Amplify your Tech SWAG with us!",
+        desc: "Get the most popular gadget in town with us! Flex and Update!",
         bg: "b7bfe4",
         link: "/React-Project-e-commerce-app-estore.com/productlist/headphones",
         size: "80%"
@@ -40,12 +40,13 @@ export const sliderItems = [
 
     {
         id: 5,
-        img: "https://pngroyale.com/wp-content/uploads/2022/03/Graphic-Web-Design-Transparent-Image.png",
-        title: "From Windows to Mac",
-        desc: "Diverse product range",
-        bg: "e9f6ff",
+        img: "https://www.pngitem.com/pimgs/m/459-4596731_apple-devices-family-png-transparent-png.png",
+        title: "From Windows to Mac!",
+        desc: "Diverse product brands and range for all your daily tech needs. ",
+        
+        bg: "f7f7f7",
         link: "/React-Project-e-commerce-app-estore.com/productlist/laptops",
-        size: "80%"
+        size: "70%"
     },
 
 ];

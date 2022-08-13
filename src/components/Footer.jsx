@@ -188,6 +188,9 @@ function Footer() {
               </Link>
             </ListItem>
             <ListItem>
+            <Link to="/z" className="CustomRouterLink">
+                Support
+              </Link>
               {/* <Link to="/React-Project-e-commerce-app-estore.com/dataapi" className="CustomRouterLink">
                 Data API
               </Link> */}
@@ -206,6 +209,10 @@ function Footer() {
               <Link to="/React-Project-e-commerce-app-estore.com/productlist/headphones" className="CustomRouterLink">
                 Headphones
               </Link>
+              <ListItem>
+              <Link to="/React-Project-e-commerce-app-estore.com/" className="CustomRouterLink">
+              </Link>
+            </ListItem>
             </ListItem>
             <ListItem>
               {/* <Link to="/React-Project-e-commerce-app-estore.com/restfulapi" className="CustomRouterLink">
@@ -225,7 +232,7 @@ function Footer() {
           </ContactItem>
           <ContactItem>
             <Email style={{ marginRight: "10px" }} />
-            contact@2getech
+            contact@ggetechstore.com
           </ContactItem>
           <Payment src="https://www.rhodesgraduation.com/wp-content/uploads/cards.png" />
         </Right>

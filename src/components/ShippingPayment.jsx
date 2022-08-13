@@ -240,18 +240,42 @@ const ShippingPayment = ({ totalCartItems, totalPriceCartItems }) => {
           <Option disabled selected>
             City
           </Option>
-          <Option>Abra</Option>
+          <Option>Angeles</Option>
+          <Option>Bacolod</Option>
           <Option>Baguio</Option>
-          <Option>Islamabad</Option>
-          <Option>Multan</Option>
-          <Option>Karachi</Option>
-          <Option>Lahore</Option>
-          <Option>Islamabad</Option>
-          <Option>Multan</Option>
-          <Option>Karachi</Option>
-          <Option>Lahore</Option>
-          <Option>Islamabad</Option>
-          <Option>Multan</Option>
+          <Option>Cagayan de Oro</Option>
+          <Option>Caloocan</Option>
+          <Option>Cebu City</Option>
+          <Option>Davao City</Option>
+          <Option>General Santos</Option>
+          <Option>Iligan</Option>
+          <Option>Iloilo City</Option>
+          <Option>Lapu-Lapu</Option>
+          <Option>Las Pinas</Option>
+          <Option>Lucena</Option>
+          <Option>Makati</Option>
+          <Option>Malabon</Option>
+          <Option>Mandaluyong</Option>
+          <Option>Mandaue</Option>
+          <Option>Manila</Option>
+          <Option>Marikina</Option>
+          <Option>Muntinlupa</Option>
+          <Option>Navotas</Option>
+          <Option>Olongapo</Option>
+          <Option>Paranaque</Option>
+          <Option>Pasay</Option>
+          <Option>Pasig</Option>
+          <Option>Puerto Princesa</Option>
+          <Option>Quezon City</Option>
+          <Option>San Juan</Option>
+          <Option>Tacloban</Option>
+          <Option>Taguig</Option>
+          <Option>Valenzuela</Option>
+          <Option>Zamboanga City</Option>
+
+
+
+
         </SelectFiled>
         <InputFieldAddress
           placeholder="Address"
