@@ -1,3 +1,7 @@
+// import React from 'react';
+// import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
+// import MasterLayout from './layouts/admin/MasterLayout';
+
 // Clone of the React State-Props based estore e-commerce app - Redux Implementing (Making state centralized)
 import React, { Component } from 'react';
 import { ToastContainer, toast } from 'react-toastify';
@@ -19,6 +23,20 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import SearchResult from './pages/SearchResult';
+
+// function App() {
+//   return (
+//     <div className="App">
+//       <Router>
+//         <Switch>
+
+//           <Route path="/admin/dashboard" component={MasterLayout} />
+
+//         </Switch>
+//       </Router>
+//     </div>
+//   );
+// }
 
 class App extends Component {
   state = {
