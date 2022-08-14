@@ -935,7 +935,7 @@ export const allProducts = [
     {
         id: 26,
         title: "Nintendo Animal Crossing",
-        desc: "This Nintendo Switch™ system takes design inspiration from the new Animal Crossing™: New Horizons game",
+        desc: "This Nintendo Switch™ system takes design inspiration from the new Animal Crossing™: New Horizons game.",
         img: "https://s1.thcdn.com/productimg/960/960/12458084-6214741408005972.jpg",
         // Price and Price Quantity must be same
         price: 16000,
