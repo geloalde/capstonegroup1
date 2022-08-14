@@ -916,8 +916,8 @@ export const allProducts = [
         popular: "yes",
         "Main Features": "4-9 hours battery",
         specs: {
-            RAM: "TV mode",
-            ROM: "Handheld mode",
+            // RAM: "TV mode",
+            // ROM: "Handheld mode",
             "Version": "Japan",
             "Colors": "Neon Blue, Neon Red",
             "Official release date": "Aug 30, 2019",
@@ -935,7 +935,7 @@ export const allProducts = [
     {
         id: 26,
         title: "Nintendo Animal Crossing",
-        desc: "added on our class og aug 8 , 2022",
+        desc: "This Nintendo Switch™ system takes design inspiration from the new Animal Crossing™: New Horizons game",
         img: "https://s1.thcdn.com/productimg/960/960/12458084-6214741408005972.jpg",
         // Price and Price Quantity must be same
         price: 16000,
@@ -945,8 +945,8 @@ export const allProducts = [
         popular: "no",
         "Main Features": "4-9 hours battery, TV mode, handheld mode",
         specs: {
-            RAM: "",
-            ROM: "",
+            // RAM: "",
+            // ROM: "",
             "Version": "Japan",
             "Colors": "Neon Blue, Neon Red",
             "Official release date": "Aug 30, 2019",
@@ -973,8 +973,8 @@ export const allProducts = [
         popular: "no",
         "Main Features": "Handheld play, Light, Compact",
         specs: {
-            RAM: "",
-            ROM: "",
+            // RAM: "",
+            // ROM: "",
             "Version": "Japan",
             "Colors": "Turquoise",
             "Official release date": "Aug 30, 2019",
@@ -1001,8 +1001,8 @@ export const allProducts = [
         popular: "yes",
         "Main Features": "Hardware Accelerated DirectX Raytracing",
         specs: {
-            RAM: "",
-            ROM: "",
+            // RAM: "",
+            // ROM: "",
             "Version": "Japan",
             "Colors": "Black",
             "Official release date": "Nov 10, 2020",
@@ -1029,8 +1029,8 @@ export const allProducts = [
         popular: "yes",
         "Main Features": "Haptic technology",
         specs: {
-            RAM: "",
-            ROM: "",
+            // RAM: "",
+            // ROM: "",
             "Version": "Asia",
             "Colors": "White",
             "Official release date": "Nov 19, 2020",
